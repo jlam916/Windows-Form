@@ -1,0 +1,20 @@
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csprojResolveAssemblyReference.cache
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ISD_Equipment_Management.resources
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csproj.GenerateResource.Cache
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Laptop_2_PopUp.resources
+\\hqsrvf01\home\jlam1\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csproj.ResolveComReference.cache
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csproj.ResolveComReference.cache
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.ISD_Equipment_Management.resources
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Laptop_2_PopUp.resources
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ISD Equipment Log.csproj.GenerateResource.Cache
